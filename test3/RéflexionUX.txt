@@ -1,0 +1,19 @@
+REFLEXION UX
+
+Proposer trois améliorations UX pertinentes pour une application de transfert d’argent destinée à des utilisateurs peu technophiles.
+
+1. Je propose une interface d'accueil simplifiée à l'extrême (le "Menu Binaire")
+Au lieu d'un tableau de bord classique avec des soldes complexes, des publicités ou des graphiques de dépenses, je propose que la page d'accueil soit uniquement composée de deux ou trois gros boutons d'action clairs : "Envoyer de l'argent" et "Retirer de l'argent".
+
+L'objectif : Éliminer toute distraction ou confusion dès l'ouverture de l'application. L'utilisateur sait immédiatement où appuyer sans avoir à naviguer dans des menus secondaires. C'est une interface d'aiguillage directe qui rassure par sa simplicité.
+
+
+2. Je propose un design "utilitaire" sans fioritures graphiques
+Je propose de bannir les interfaces trop chargées, les illustrations complexes, les animations ou les couleurs extravagantes qui plaisent souvent aux designers mais qui perdent les utilisateurs novices.
+
+L'objectif : Utiliser un design sobre avec des polices de caractère très grandes, des contrastes élevés (texte noir sur fond blanc, par exemple) et des boutons massifs. Une interface épurée donne un aspect plus sérieux et "officiel", ce qui renforce le sentiment de sécurité pour quelqu'un qui a peur de faire une erreur de manipulation financière.
+
+3. Je propose un centre d'aide visuel avec démonstrations vidéo et assistance directe
+Pour accompagner l'utilisateur sans le laisser seul face à ses doutes, je propose d'intégrer un menu d'aide prioritaire contenant des tutoriels vidéo très courts (démos "pas-à-pas") montrant précisément où appuyer pour réussir une opération.
+
+L'objectif : Compléter cette aide visuelle par un accès rapide à un conseiller humain via un bouton d'appel direct ou un lien vers un chat (type WhatsApp). Pour un utilisateur peu technophile, voir une vidéo de démonstration est beaucoup plus parlant que de lire une notice d'utilisation, et savoir qu'une aide humaine est accessible en un clic réduit considérablement l'anxiété liée à l'outil numérique.
